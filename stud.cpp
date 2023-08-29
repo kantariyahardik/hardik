@@ -32,7 +32,7 @@
             cout << "\n student no. is:" << admno;
             cout << "\n student name is:" << sname;
             cout << "\neng\tmath\tsci\ttotal";
-            cout << "\n" << eng << "\t" << math << "\t" << sci << "\t" << total;
+            cout << "\n" << eng << "\t" << math << "\t"0 << sci << "\t" << total;
         }
      };
      int main()
